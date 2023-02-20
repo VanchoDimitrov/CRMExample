@@ -1,2 +1,2 @@
 # CRMExample
-CRM example architecture, Telerik Mocking, Azure Insights, NLog integration, DDD, WEB UI, WEB Api.
+CRM example architecture, Telerik Mocking for unit testing, Azure Insights, NLog integration, DDD, WEB UI, WEB Api.
